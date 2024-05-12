@@ -6,9 +6,9 @@ import culturemedia.model.Video;
 import culturemedia.model.View;
 import culturemedia.repository.VideoRepository;
 import culturemedia.repository.ViewRepository;
-import culturemedia.service.CultureMediaService;
+import culturemedia.service.CultureMediaServices;
 
-public class CultureMediaImpl implements CultureMediaService {
+public class CultureMediaImpl implements CultureMediaServices {
 
     private VideoRepository videoRepository;
     private ViewRepository viewRepository;
