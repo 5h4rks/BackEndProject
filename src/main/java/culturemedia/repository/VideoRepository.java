@@ -1,4 +1,4 @@
-package main.java.culturemedia.repository;
+package culturemedia.repository;
 import java.util.List;
 import culturemedia.model.Video;
 public interface VideoRepository {
