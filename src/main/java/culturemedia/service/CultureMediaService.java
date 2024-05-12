@@ -1,6 +1,5 @@
-package main.java.culturemedia.service;
+package culturemedia.service;
 import culturemedia.model.*;
-import main.java.culturemedia.model.Video;
 
 import java.util.List;
 public interface CultureMediaService {

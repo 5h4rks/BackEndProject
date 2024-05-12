@@ -1,4 +1,5 @@
-package main.java.culturemedia.exeption;
+package culturemedia.exeption;
+
 public class CultureMediaExeption extends Exception {
     
     public CultureMediaExeption(String messege){

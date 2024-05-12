@@ -1,4 +1,4 @@
-package main.java.culturemedia.service.impl;
+package culturemedia.service.impl;
 
 import java.util.List;
 
