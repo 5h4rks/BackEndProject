@@ -1,5 +1,5 @@
 package culturemedia.service;
-import culturemedia.exeption.VideoNotFoundException;
+import culturemedia.exception.VideoNotFoundException;
 import culturemedia.model.*;
 
 import java.util.List;

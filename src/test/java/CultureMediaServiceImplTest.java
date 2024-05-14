@@ -7,7 +7,7 @@ import java.util.List;
 
 import culturemedia.service.CultureMediaServices;
 import culturemedia.service.impl.CultureMediaServiceImpl;
-import culturemedia.exeption.VideoNotFoundException;
+import culturemedia.exception.VideoNotFoundException;
 import culturemedia.model.Video;
 import culturemedia.repository.*;
 import culturemedia.repository.impl.*;

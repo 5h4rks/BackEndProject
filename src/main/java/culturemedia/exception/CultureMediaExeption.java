@@ -1,4 +1,4 @@
-package culturemedia.exeption;
+package culturemedia.exception;
 
 public class CultureMediaExeption extends Exception {
     
